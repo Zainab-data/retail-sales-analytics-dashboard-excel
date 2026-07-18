@@ -8,6 +8,12 @@ The dashboard enables users to monitor sales performance, analyze customer purch
 
 ---
 
+## Dashboard Preview
+
+![Retail Sales Dashboard](Dashboard-Preview.png)
+
+---
+
 ## Objectives
 
 - Clean and prepare raw retail sales data.
@@ -113,7 +119,7 @@ This dashboard helps answer important business questions such as:
 
 ---
 
-##💡Key Insights
+## 💡 Key Insights
 
 The dashboard enables users to:
 
